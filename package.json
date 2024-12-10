@@ -1,0 +1,30 @@
+{
+  "dependencies": {},
+  "name": "expo-toast",
+  "version": "1.0.0",
+  "description": "React Native toast component, It works on Android iOS and Expo",
+  "main": "index.ts",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StationChnqoo/react-native-use-toast.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-toast",
+    "toast",
+    "hook",
+    "expo",
+    "expo-toast",
+    "react-native-root-toast"
+  ],
+  "author": "https://cctv3.net",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StationChnqoo/expo-toast/issues"
+  },
+  "homepage": "https://github.com/StationChnqoo/expo-toast#readme"
+}
