@@ -1,7 +1,7 @@
 {
   "dependencies": {},
   "name": "expo-toast",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Native toast component, It works on Android iOS and Expo",
   "main": "index.ts",
   "devDependencies": {},
